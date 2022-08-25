@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #000;
+    padding: 1em;
+    
+}
+h1{
+    color: #fff;
+}
+ul{
+    display: flex;
+    list-style: none;
+    padding: 1em;
+}
+li a{
+    text-decoration: none;
+    margin-right: 2em;
+    color: #fff;
+}

@@ -1,0 +1,13 @@
+*{
+    background-color: #000;
+    color: #fff;
+    height: 100%;
+}
+button{
+    border: 1px solid #fff;
+    padding: 0.5em;
+    border-radius: 5px;
+}
+ul{
+    margin-bottom: 0.5em;
+}

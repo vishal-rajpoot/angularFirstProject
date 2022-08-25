@@ -1,0 +1,26 @@
+.main{
+  background-color: rgb(209, 208, 208);
+}
+.heading{
+  color: red;
+  letter-spacing: 1em;
+}
+.btn{
+  margin-right: 2em;
+  padding: 1em;
+  border: none;
+  border-bottom: 1px solid rgb(255, 0, 0);
+  background-color: rgb(53, 49, 49);
+  color: #fff;
+  border-radius: 6px;
+}
+h2{
+  background-color: rgb(151, 197, 250);
+  color: #fff;
+  width: 30%;
+  display: flex;
+  margin: 0.3em 4em;
+  
+  padding: 10px;
+  border-left: 4px solid goldenrod;
+}
